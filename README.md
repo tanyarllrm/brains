@@ -3,3 +3,7 @@ Course assignments for Computational Neuroscience & neural networks. Each assign
 
 ## Outline
 - Assignment 1: Perceptrons, regression, back propagation
+- Assignment 2
+- Assignment 3
+- Assignment 4
+- **Final Project**
